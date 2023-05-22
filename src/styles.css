@@ -9,8 +9,9 @@ body {
 }
 
 footer{
-  position:sticky;
+  position:static;
   left:0px;
-  bottom:0px;
+  bottom:1px;
   right:0px;
+  
 }
